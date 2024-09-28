@@ -8,4 +8,5 @@ func main() {
 	b := 5
 	result := a / b
 	fmt.Println(result)
+	var c int
 }
