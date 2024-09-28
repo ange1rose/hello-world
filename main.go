@@ -10,4 +10,5 @@ func main() {
 	fmt.Println(result)
 	var c int
 	var d int
+	var man string
 }
