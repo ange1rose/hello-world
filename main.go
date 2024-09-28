@@ -9,4 +9,5 @@ func main() {
 	result := a / b
 	fmt.Println(result)
 	var c int
+	var d int
 }
